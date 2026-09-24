@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开首页，验证页面有内容渲染（标题、卡片可见），非白屏"},{"id":2,"priority":"p0","description":"打开喂养页，验证有列表内容和添加按钮可见"},{"id":3,"priority":"p0","description":"打开生长页，验证有卡片和趋势图区域可见"},{"id":4,"priority":"p0","description":"打开宝宝档案页，验证有宝宝信息区域可见"}]}
