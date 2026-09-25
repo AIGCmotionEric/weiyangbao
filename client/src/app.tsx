@@ -17,7 +17,7 @@ import {
 
 const MONETGATE_APP_ID = 'cp_gfohtjofl3680pfme9ohojx3';
 const MONETGATE_API_BASE =
-  'https://photographic-connecting-retailer-subscribe.trycloudflare.com';
+  'https://treated-home-wires-precipitation.trycloudflare.com';
 
 const PROTECTED_ROUTES = ['/feeding', '/growth'];
 

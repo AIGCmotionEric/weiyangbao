@@ -105,7 +105,7 @@
 ### 后台配置
 
 - appId: `cp_gfohtjofl3680pfme9ohojx3`
-- apiBase: `https://photographic-connecting-retailer-subscribe.trycloudflare.com`
+- apiBase: `https://treated-home-wires-precipitation.trycloudflare.com`
 
 ### 商品配置
 

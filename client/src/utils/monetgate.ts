@@ -79,7 +79,7 @@ export interface MonetGateSDK {
 }
 
 const MONETGATE_SDK_URL =
-  'https://photographic-connecting-retailer-subscribe.trycloudflare.com/sdk.js';
+  'https://treated-home-wires-precipitation.trycloudflare.com/sdk.js';
 
 export function loadMonetGateSdk(): Promise<MonetGateSDK> {
   return new Promise((resolve, reject) => {
