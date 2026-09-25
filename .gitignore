@@ -64,6 +64,7 @@ pnpm-lock.yaml
 .agent/
 .npm_cache
 
-# Dev/agent scratch.spark/
+# Dev/agent scratch
+.spark/
 .agent/
 
